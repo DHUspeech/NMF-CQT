@@ -16,6 +16,8 @@ c) Afterwards, we will enhance different noisy speech with the same noise but di
 
 Citation
 -----------------------------------------------
+Please cite the following if our paper or code is helpful to your research.
+
 @article{xu2021speech,
   title={Speech enhancement based on nonnegative matrix factorization in constant-Q frequency domain},
   author={Xu, Longting and Wei, Zhilin and Zaidi, Syed Faham Ali and Ren, Bo and Yang, Jichen},
