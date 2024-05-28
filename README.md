@@ -1,3 +1,4 @@
+# NMF-CQT
 The main program is an m file named main_matrix3. m, with the main difference being the construction of different graph adjacency matrices (different matrix construction methods are located in the folder "matrix_make")
 Taking main_matrix3. m as an example
 1 In the program, a result was obtained after NMF using GFT CQT STFT as the feature processing method.
@@ -12,3 +13,15 @@ b) By combining clean speech and noisy speech matrices, noisy speech enhancement
 c) Afterwards, we will enhance different noisy speech with the same noise but different signal-to-noise ratios, and then obtain the evaluation results (pesq stoi)
 
 4 The final evaluation result (PESQ STOI) is saved in the corresponding. mat file.
+
+Citation
+-----------------------------------------------
+@article{xu2021speech,
+  title={Speech enhancement based on nonnegative matrix factorization in constant-Q frequency domain},
+  author={Xu, Longting and Wei, Zhilin and Zaidi, Syed Faham Ali and Ren, Bo and Yang, Jichen},
+  journal={Applied Acoustics},
+  volume={174},
+  pages={107732},
+  year={2021},
+  publisher={Elsevier}
+}
